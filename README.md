@@ -41,7 +41,7 @@ The application is deployed on netlify and can be accessed [here](https://reachi
  
    <h2>Installation</h2>
    
-   Clone the repository:   ``` git clone   ``` <br/>
+   Clone the repository:   ``` git clone https://github.com/nikeshsharma192002/ReachInBox  ``` <br/>
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
